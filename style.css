@@ -1,19 +1,15 @@
 /* This affects everything within the body tag */
 body {
     font-family: "Times New Roman", sans-serif;
+    background: linear-gradient(to bottom, rgb(174, 202, 245) 0%, rgb(99, 110, 235) 100%);
 }
 
 /* This affects the entire header element */
 .header {
     padding: 80px;
     text-align: center;
-    background: lightskyblue; /* can use hex value or preset names for colors */
+    /*background: lightskyblue; /* can use hex value or preset names for colors */
     color: white;
-}
-
-/* Only affects the h1 tag in the header */
-.header h1 {
-    font-size: 40px;
 }
 
 .main {
@@ -23,5 +19,9 @@ body {
 .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    /*background: #ddd;*/
+}
+
+.profile-picture {
+    border-radius: 60%;
 }
