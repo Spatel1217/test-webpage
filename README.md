@@ -1,2 +1,2 @@
 # test-webpage
-A demo personal webpage using only pure HTML and CSS.
+A personal webpage made by me to showcase me.
